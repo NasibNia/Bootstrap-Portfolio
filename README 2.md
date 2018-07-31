@@ -10,7 +10,7 @@ Practicing Bootstrap for styling the webpage, page layout, media query, page res
 <!-- make a link to the deployed site --> 
 <!-- [What the user will see](the link to the deployed site) -->
 
-[NASIB in the WebLand](https://nasibnia.github.io/Bootstrap-Portfolio/)
+[NASIB in Bootstrap Land](https://nasibnia.github.io/Bootstrap-Portfolio/)
 
 
 # Images
